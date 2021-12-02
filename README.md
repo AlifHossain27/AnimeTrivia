@@ -8,13 +8,21 @@
 # **Installation**
 
 ### **Clone this repository :**
+```
 $ git clone https://github.com/AlifHossain27/AnimeTrivia
+```
 
 ### **Go into the repository :**
+```
 $ cd AnimeTrivia
+```
 
 ### **Install dependencies :**
+```
 $ pip install requirements.txt
+```
 
 ### **Run the app :**
+```
 $ python trivia.py
+```
