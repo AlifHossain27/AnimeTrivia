@@ -3,8 +3,7 @@
 ### AnimeTriva a game made using Python  
 
 # **Overview**
-<img src='https://user-images.githubusercontent.com/95392853/144385335-993b17cc-731a-4f16-9c86-c82c25787705.PNG' width=390px/>&nbsp;<img src='https://user-images.githubusercontent.com/95392853/144385339-6ed4eb8a-a325-4125-8183-0d22a4ca9d4e.PNG' width=390px/>
-<img src='https://user-images.githubusercontent.com/95392853/144385346-ef9d9f7c-d81a-4ed7-a5dd-d2e9a7281a2a.PNG' width=790px/>
+![AnimeTrivia](https://user-images.githubusercontent.com/95392853/144391243-caa17e01-fbbf-4b0a-b01a-79141bb67a1e.gif)
 
 # **Installation**
 
