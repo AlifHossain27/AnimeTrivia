@@ -9,7 +9,7 @@
 
 ### **Clone this repository :**
 ```
-$ git clone https://github.com/AlifHossain27/AnimeTrivia
+$ git clone https://github.com/AlifHossain27/AnimeTrivia.git
 ```
 
 ### **Go into the repository :**
